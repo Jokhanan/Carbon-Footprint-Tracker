@@ -829,5 +829,5 @@ root = Tk()#calls the tcl/tk interpreter
 
 window = GUI(root)#creates the GUI object using the interpreter
 root.resizable(width=False, height=False)
-#root.eval('tk::PlaceWindow %s center' % root.winfo_pathname(root.winfo_id()))#places window on center of screen
+root.eval('tk::PlaceWindow %s center' % root.winfo_pathname(root.winfo_id()))#places window on center of screen
 root.mainloop()#runs the GUI object on a loop using the tcl/tk interpreter
