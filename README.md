@@ -1,6 +1,7 @@
 # CFET (Carbon Footprint Emissions Tracker)
-An app to log daily events and view your total environmental impact.
 -----------------------------------------
+An app to log daily events and view your total environmental impact.
+
 
 Development and Concepts
 ------------------------
