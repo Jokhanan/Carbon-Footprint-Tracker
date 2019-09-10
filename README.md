@@ -2,7 +2,6 @@
 -----------------------------------------
 An app to log daily events and view your total environmental impact.
 
-
 Development and Concepts
 ------------------------
 All pre-development design and concepts are saved as pdfs or pictures
